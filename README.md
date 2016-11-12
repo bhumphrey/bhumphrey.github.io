@@ -1,1 +1,2 @@
-# Front Cover jekyll theme https://dashingcode.github.io/front-cover/
+# Front Cover jekyll theme
+https://dashingcode.github.io/front-cover/
